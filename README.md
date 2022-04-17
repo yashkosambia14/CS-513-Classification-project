@@ -5,7 +5,7 @@ Welcome to the Classification project for the course of KDDM at Stevens Institut
 
 Members Include 
 
-Naresh 
-Joe Marks
-Harshil
-Yash
+Naresh,
+Joe,
+Harshil,
+Yash,
